@@ -2,4 +2,4 @@
 <br>Atualmente o botão Salvar não está funcionando<p/>
 
 <img src="https://imgur.com/lijmwZa.png" with="200">
-<img src="hhttps://imgur.com/nCYHYw8.png" with="200"> 
+<img src="https://imgur.com/nCYHYw8.png" with="200"> 
