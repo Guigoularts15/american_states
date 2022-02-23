@@ -2,5 +2,5 @@
   
 <p>O botão salvar atualmente não está funcionando<p/>
   
-<img url="https://i.imgur.com/lijmwZa.jpg"/>
-  <img url=https://imgur.com/nCYHYw8.jpg"/>
+<img src="https://imgur.com/lijmwZa.png" alt="Estados" width="200"/>
+  <img src="https://imgur.com/nCYHYw8.png" alt="Dados" width="200"/>
