@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:fitsSystemWindows="true">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/brutaltype_extrabold"
+        android:text="@string/american_sates"
+        android:textSize="17sp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:textColor="#293845"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"/>
+
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/custom_searchbar"
+        android:iconifiedByDefault="false"
+        android:queryHint="Filtrar"
+        android:searchIcon="@null"
+        android:closeIcon="@null"
+        android:textColorHint="#c5d1db"
+        android:queryBackground="@android:color/transparent"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">American States</string>
+    <string name="american_states">População dos Estados Americanos</string>
+    <string name="american_sates">População dos Estados Americanos</string>
+    <string name="id">ID</string>
+    <string name="estado">Estado</string>
+    <string name="ano">Ano</string>
+    <string name="popula_o">População</string>
+    <string name="slug">Slug</string>
+    <string name="salvar">Salvar</string>
+</resources>
